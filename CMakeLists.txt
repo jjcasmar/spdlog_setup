@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.3)
+cmake_minimum_required(VERSION 3.12)
 
 # project variables
 project(spdlog_setup VERSION 0.3.3 LANGUAGES CXX)
